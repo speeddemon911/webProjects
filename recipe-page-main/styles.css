@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+}
+
+.background {
+    background-color: black;
+    
+}
+
+
+.wrapper {
+    background-color: hsl(30, 54%, 90%);   
+    padding-top: 140px;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 130px;
+}
+
+.main {
+    background-color:  white;
+    width: 650px;
+    align-items: center;
+    padding: 40px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    border-radius: 25px;
+}
+
+
+
+h1 {
+    font-family: "Young Serif";
+    font-size: 38px;
+}
+
+h2, h3 {
+    font-family: "Young Serif";
+    font-size: 28px;
+    color: hsl(332, 51%, 32%);
+}
+p, li, td, h3 {
+    font-family: "Outfit";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#prep-time {
+    background-color: hsl(330, 100%, 98%);
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+
+}
+
+#num1, #num2, #num3, #num4 {
+    font-weight: 600;
+    color: hsl(332, 51%, 32%);
+}
+
+#omelette-pic {
+    border-radius: 15px;
+    
+}
+
+li {
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
+
+td {
+    padding-bottom: 1em;
+    padding-top: 1em;
+    border-bottom: 1px solid rgb(179, 179, 179);
+    vertical-align: middle;
+    text-align: left;
+}
